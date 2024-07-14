@@ -1,0 +1,6 @@
+a=float(input("enter number:"))
+b=float(input("enter second number:"))
+print(f"add:{a+b:.2f}")
+print(f"sub:{a-b:.2f}")
+print(f"mul:{a*b:.2f}")
+print(f"div:{a/b:.2f}")
